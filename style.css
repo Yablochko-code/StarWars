@@ -6,7 +6,7 @@
 }
 body {
     /* Фон с картинкой */
-    background: #070506 url("/img/main-bg.png") 10% 20% no-repeat;
+    background: #070506 url("img/main-bg.png") 10% 20% no-repeat;
     background-attachment: fixed;
     /* Цвет текста */
     color: #ffffff;
